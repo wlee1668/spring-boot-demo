@@ -26,6 +26,7 @@ steps:
     contents: | 
       *manifest.xml
       **/*.war
+      *.dar
     targetFolder: '$(build.artifactStagingDirectory)'
 
 - task: PublishBuildArtifacts@1
