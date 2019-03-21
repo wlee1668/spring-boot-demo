@@ -23,8 +23,9 @@ steps:
 
 - task: CopyFiles@2
   inputs:
-    contents: 
-      '**/*.xml **/*.war'
+    contents: | 
+      *manifest.xml
+      **/*.war
     targetFolder: '$(build.artifactStagingDirectory)'
 
 - task: PublishBuildArtifacts@1
