@@ -7,3 +7,9 @@ Run "mvn clean package"
 Copy the war file to webapp folder in tomcat8.5.38(the version I tested)
 
 http://localhost:8080/spring-boot-demo/help
+
+Release Notes:
+
+11-20-2019
+
+Update README.md
