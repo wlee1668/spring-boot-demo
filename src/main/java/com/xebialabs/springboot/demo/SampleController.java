@@ -11,7 +11,7 @@ public class SampleController {
     @RequestMapping("/help")
     @ResponseBody
     String home() {
-        String input = "Hello Spring Boot!!!";
+        String input = "Hello Spring Boot!!!!!";
         return input;
     }
 }
