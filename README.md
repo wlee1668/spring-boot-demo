@@ -10,6 +10,10 @@ http://localhost:8080/spring-boot-demo/help
 
 Release Notes:
 
+1.0.1
+
+edit the README.md
+
 1.0.0
 
 initial setup
