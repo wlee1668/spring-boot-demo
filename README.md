@@ -10,10 +10,6 @@ http://localhost:8080/spring-boot-demo/help
 
 Release Notes:
 
-1.1.0
-
-add .gitignore file
-
 1.0.0
 
 initial setup
